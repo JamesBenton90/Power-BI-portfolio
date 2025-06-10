@@ -42,7 +42,6 @@ This dashboard is designed to explore and present business-critical sales metric
 This project gave me hands-on experience with:
 - Data cleaning and transformation using Power Query
 - Creating relationships between multiple tables
-- Writing DAX measures for custom calculations
 - Designing user-friendly and executive-style dashboards
 - Storytelling with data through visuals and layout
 
@@ -52,7 +51,6 @@ This project gave me hands-on experience with:
 
 - **Microsoft Power BI Desktop**
 - Excel (.xlsx) dataset (imported)
-- DAX for advanced measures
 - Power Query for data shaping
 
 ---
